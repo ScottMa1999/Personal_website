@@ -294,7 +294,7 @@
   background-color:#191919;
   padding: 2rem;
   width:50%;
-  height: 45vh;
+  height: 50vh;
   border-radius: 2rem;
 }
 
@@ -302,7 +302,8 @@
 .Backend-image-icon {
   display: flex;
   flex-direction: row;
-  gap: 0.5rem;
+  gap: 8%;
+  justify-content: center;
 }
 
 .container3-btn {
