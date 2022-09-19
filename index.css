@@ -358,6 +358,7 @@
   width:50%;
   height: 50vh;
   border-radius: 2rem;
+  overflow: hidden;
 }
 
 .guitar img,
